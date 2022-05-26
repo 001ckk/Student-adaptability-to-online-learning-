@@ -15,16 +15,16 @@ Access the colab notebook https://colab.research.google.com/drive/1mqRVdHDIjNAXA
 
 **Accessing the report**
 
-The report can be accessed here
+The report can be accessed https://docs.google.com/document/d/1BKmmmOcZPJRYTXlIepPUW-d27mURAVEQhj4TkBNMmxw/edit#heading=h.1om9q517o8a3
 
 **Accessing the tableau dashboard**
 
-The dashboard can be accessed here
+The dashboard can be accessed https://public.tableau.com/app/profile/kevin8517/viz/NexusGroup/StudentAdaptivityDashboard
 
 **Installation/ Set Up**
 
 Use a desktop or laptop, phone or tablet.
-To install, access the notebook here and save a copy in your drive to edit.
+To install, access the notebook herhttps://colab.research.google.com/drive/1mqRVdHDIjNAXAjFsWexhwQoGEyc_Ha7T?usp=sharing and save a copy in your drive to edit.
 
 **Technologies Used**
 
