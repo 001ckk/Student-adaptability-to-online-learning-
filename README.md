@@ -1,24 +1,39 @@
 # Student-adaptability-to-online-learning-
-Team Nexus 
-Nexus-Project
+Team Nexus - Project
+
 A Jupyter notebook
+
 By Samuel Mutua, Kevin Odhiambo, Christopher Kimani and Sharon Olago
-Description
+
+**Description**
+
 The notebook contains the analysis on a project whose main aim was to identify the top factors that affect a student's adaptability to online education. Using univariate, bivariate, and multivariate analysis, as well as hypothesis testing, valuable insights were drawn that will aid in improving the current levels of adaptability.
 
-Running the app
-Access the colab notebook here
-Accessing the report
+**Running the app** 
+
+Access the colab notebook https://colab.research.google.com/drive/1mqRVdHDIjNAXAjFsWexhwQoGEyc_Ha7T?usp=sharing
+
+**Accessing the report**
+
 The report can be accessed here
-Accessing the tableau dashboard
+
+**Accessing the tableau dashboard**
+
 The dashboard can be accessed here
-Installation/ Set Up
+
+**Installation/ Set Up**
+
 Use a desktop or laptop, phone or tablet.
 To install, access the notebook here and save a copy in your drive to edit.
-Technologies Used
-Jupyter notebook (Python)
-Support and contact details
-Github account: Sharon-Faith
 
-License
+**Technologies Used**
+
+Jupyter notebook (Python)
+
+**Support and contact details**
+
+Github account: 001ckk
+
+**License**
+
 MIT License Copyright (c) {2022} Samuel Mutua, Kevin Odhiambo, Christopher Kimani and Sharon Olago
