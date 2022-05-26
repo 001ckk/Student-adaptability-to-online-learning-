@@ -24,7 +24,8 @@ The dashboard can be accessed https://public.tableau.com/app/profile/kevin8517/v
 **Installation/ Set Up**
 
 Use a desktop or laptop, phone or tablet.
-To install, access the notebook herhttps://colab.research.google.com/drive/1mqRVdHDIjNAXAjFsWexhwQoGEyc_Ha7T?usp=sharing and save a copy in your drive to edit.
+
+To install, access the notebook and save a copy in your drive to edit.
 
 **Technologies Used**
 
